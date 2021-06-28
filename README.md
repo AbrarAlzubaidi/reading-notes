@@ -9,14 +9,11 @@ Growth mindset is the opposite of Fixed mindset (FM) which see tha talent and in
 
 SO, how i know if my mind/think is GM or FM? by check somethings and here some of them:
 
-1. **challenges**:  GM-->will embraces you, you will acept it and challenge it ;) if the challenge is a problem you can face it, solve it and have fun :)
+1. **challenges**:  GM-->it will embraces me, i will acept it and challenge it ;) if the challenge is a problem i can face it, solve it and have fun :)
+       
+ 2. **effort**: GM--> show me there is no gain without pain and sometime i have to feel pain to reach nice result.
     
-    FM---> you will avoid it easily because you think you are not against it.
-    
- 2. **effort**: GM--> show you there is no gain without pain amd sometime you have to feel pain to reach nice result.
-
-    FM-->show this effort is pointless and there is no need for it.
-    
+    3. **criticism**: GM--> by see persons who is great a motivation person to me listen to their,and learn from their life. 
     
     ####Finally####, you should think like GM and take it a rule in your life. And please stop thinking like FM this is a disease because you can do it with some more effort :)
  
