@@ -20,7 +20,6 @@ italic|*  *  | *italic*
  so, people can see your work.it is like a path help you to creat your own projects or documentations to a websites using REPOSITORY.
  in addition if you want to creat blog,documents you can use it, it will help you using easy steps to make it.also, you can maintain it whenever you want.finally if you want you can publish it and have some reply from experts who advise you before adopting it. you can add a theme too.
  
-to know more please chech this page [Github](https://github.com)
 
 -----------------------------------------------------
 
