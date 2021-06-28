@@ -1,6 +1,6 @@
 ### Markdown
 
-Markdown it is a method to write your text/documentation and you can make it as a website by using Github.
+Markdown it is a method to write your text/documentation.you can add tables,images and liks. 
 also, you can style it by adding variety of symbols, each symbol view different formatting style .
 
 **SOME EXAMPLES**:
@@ -10,8 +10,7 @@ the symbol| syntax | example
 bold|** **| **bold**
 italic|*  *  | *italic*
 
- 
-to know more please chech this page [Markdown](https://guides.github.com/features/mastering-markdown/) 
+  
 
  -----------------------------------------------------
  
@@ -23,6 +22,10 @@ to know more please chech this page [Markdown](https://guides.github.com/feature
  
 to know more please chech this page [Github](https://github.com)
 
+-----------------------------------------------------
 
 
- 
+### Markdown using Github
+
+github give you a service that you can write markdown files. all markdown specification in github. so you can write the file in easy way and if you want to publish it, make it an website all of it you can do it.
+
