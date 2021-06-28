@@ -15,7 +15,7 @@ SO, how i know if my mind/think is GM or FM? by check somethings and here some o
     
     3. **criticism**: GM--> by see persons who is great a motivation person to me listen to their,and learn from their life. 
     
-    ####Finally####, you should think like GM and take it a rule in your life. And please stop thinking like FM this is a disease because you can do it with some more effort :)
+    #### Finally ####, you should think like GM and take it a rule in your life. And please stop thinking like FM this is a disease because you can do it with some more effort :)
  
  for more please check this page
  [GM](https://www.mindsetworks.com/science/)
