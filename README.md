@@ -4,6 +4,6 @@ Hi i am Abrar i am 23 years old
 file name|link
 
 |----------------|--------------------------------------|
-|Growth|[Growth](https://github.com/AbrarAlzubaidi/reading-notes.git/Growth)|
-|Read1|[Read1](https://github.com/AbrarAlzubaidi/reading/Read1)|
+|Growth|[Growth](https://abraralzubaidi.github.io/reading-notes/Growth)|
+|Read1|[Read1](https://abraralzubaidi.github.io/reading-notes/Read1)|
 
