@@ -1,31 +1,70 @@
-## GIT
+# what is Wirefram WF?
+Wireframing is a practice used by UX designers (who design a system that offers a great experience to its users) which allows them to define and plan (sketch) the information hierarchy of their design for a website, app, or product. 
 
-git is a version control system **(VCS)** that allows to upload files and make multi-clinet use, modify it easily and that makes you dont wory about make a copy of your work why? because git 
-make a version to you ( like a copy). it's storind all versions, which can be accessed by various clients. in **Git** each file called **directory**.
+**it focuses**  on how the user wants to process(deal with) information on a site.
+
+#### Types of WF?
+1. physical hand WF: using paper and pencil. it have advntage that make it easy to change.
+2. digital WF: using various of digital tools.
+
+both types made by the same thing using basic fundimental shapes represent the key element in your page.
+
+#### steps to make WF:
+1. Do your research
+2. Prepare your research for quick reference
+3. Make sure you have your user flow mapped out
+4. Draft, don’t draw. Sketch, don’t illustrate
+5. Add some detail and get testing
+6. Start turning your wireframes into prototypes.
+------------------------------------------------------------
+
+# HTML
+
+the code that is used to structure a web page and its content it is also a **markup language** means using tags.
+
+- tags write like this   <h1> headline </h1>
+- or like that    <br/> it is called self-closing tag
+- you can also put tag inside tag     <p> some <b>words</b> </p>
+- some tags have no content like img tag <img src="linke of img" />
+- some tags are neccesary to write HTML like <!DOCTYPE html>   ,<html> , <head> ,<body>,<title>
 
 
-Distributed Version Control systems **(DVCS)**: If a CVS goes down, collaborators cannot work with each other on a file or save changes and new versions.
+**SOME EXAMPLES**:
 
-So, **Git** is a DVCS that stores data in a file system made up Each time you save a changed version (copy) of your project.if the file does not changed,Git will only stores a reference to the identical version of it.
+the symbol| syntax | example
+----------|--------|--------
+bold|<b>  </b>| <b>bold  </b>
+italic|<i>  </i>  | <i> italic </i>
+-----------------------------------------------------------
 
-Every single change applied to any file or directory is tracked by Git.
+# Semantics
 
-#### replit 
-make initialization statements and clone it automatically.
+Semantics refers to the meaning of a piece of code
 
-*Git instructions:*
+### Semantics in JavaScript
+consider a function that takes a string parameter and return an element
 
-1. git add file name ---> if you want to make changes/add single file
-2. git add . -------> if you want to make changes/add multi file
-3. git commit -m "add msg" ---> to commit the change
-4. if you want to commit all records $ git commit -a
-5. git push origin main ----> to add all changes that happen in replit to github
-6. git stash This command temporarily removes changes and hides them, giving you a clean working directory.
-7. git pull origin main ----> to pull/return all files in github
-8. get status -------> to who what is going on
+### Semantics in CSS
+consider styling a list with elements representing different types of fruits
+
+### Semantics in HTML
+the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+
+#### *Some of the benefits from writing semantic markup are as follows:
+
+- Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
+- Screen readers can use it as a signpost to help visually impaired users navigate a page
+- Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+- Suggests to the developer the type of data that will be populated
+- Semantic naming mirrors proper custom element/component naming
 
 
-
-
+### some Semantic element:
+- <article>
+- <aside>
+- <details>
+- <footer>
+- <header>
+- <main>
 
 
