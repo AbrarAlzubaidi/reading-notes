@@ -1,4 +1,3 @@
-
 # reading-notes
 ## GROWTH MINDSET
 
