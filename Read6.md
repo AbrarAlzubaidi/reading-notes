@@ -23,7 +23,6 @@ CSS (Cascading Style Sheets) allows you to create great-looking web pages.
     selectors-list {
       properties-list
     }
-Copy to Clipboard
 
 ... where :
 
@@ -35,6 +34,31 @@ selectors-list ::=
 properties-list ::=
 
     [property : value] [; properties-list]
+
+
+
+
+**like:**
+
+1. p{
+   ... element selector:selects HTML elements based on the element name
+}
+
+2. *o{
+  ....  universal selector:selects all HTML elements on the page
+}
+
+3. #d{
+  ....id selector: to select a specific element(one element)
+}
+
+4.   .c{
+  ... class selector:select a specific class attribute(more than one element)
+}
+
+5. h1{
+   ... grouping selector:selects all the HTML elements with the same style definitions.
+}
 
 
 - selectors: allow styles to be conditional based on various features of elements within the DOM
