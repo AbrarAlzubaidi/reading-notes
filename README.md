@@ -19,4 +19,4 @@
 ## code 201 reading notes
 |file name| link |
 |---------|------|
-|Read201|[Read201]()|
+|class-01|[class-01](https://abraralzubaidi.github.io/reading-notes/class-01)|
