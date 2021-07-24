@@ -5,7 +5,7 @@
    
    
    
-   ![How connect the web](https://github.com/AbrarAlzubaidi/reading-notes/blob/main/how%20connect%20the%20web.png)
+   ![How connect to the web](howConnectToTheWeb.png)
    
    
    
