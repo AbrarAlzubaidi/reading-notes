@@ -2,7 +2,10 @@
 
  well you as a user open your browser and type the address or link of a website you want to access it (we call this process a request), your browser will take your request and connect with domain name server (DNS) (which hold information about servers like IP, MAC address... etc) to know the IP address for the webserver which hold your requested website **note** *this will happen if you access that webserver for the first time and your browser does not have its IP*. after DNS knowing the IP it will bring this information to you, and now you ready to connect with that webserver to access the requested webpage. Simple as it ^^.
    
+   
+   ![How connect the web](https://github.com/AbrarAlzubaidi/reading-notes/blob/main/how%20connect%20the%20web.png)
 
+-------------------------------------------------------------
 ### so now these webpages how it built? 
  
  **all webpages created by HTML and CSS**
@@ -17,7 +20,11 @@ html4 released in 1997, it had some presentational elements to control the  appe
  **the main tags in html:**
 
  1. `<!DOCTYPE html>`: to tell the browser which version this website use.
+<<<<<<< HEAD
  2. `<html>`: to tell  browser  you use html
+=======
+ 2. `<html>`: to tell browrse you use html
+>>>>>>> 777c901ea627a968974f414e68cbbfdeed87c7f7
  3. `<head>`: contains the information about this website like title and meta tags.
  4. `<body>`: contains any thing will be visible to users in your website.
   **note** each of these tags has opening and closing tag.Ex: `<head>  ..... </head>`
@@ -28,7 +35,11 @@ html4 released in 1997, it had some presentational elements to control the  appe
 2. class attribute:to identify several elements with the same attributes.
 
 ### meta tag `<meta>`:
+<<<<<<< HEAD
 meta tag contains information about webpages, it is an empty element it does not have the closing tag. it used the attributes to carry the information and the most common attributes are the name (its value is the property you are set it) and content (has the value that you want to give to this property)
+=======
+meta tag contains infornation about webpages, it is an empty element it does not have the closing tag. it used the attributes to carry the information and the most common attributes are the name (its value is the property you are set it) and content (has the value that you want to give to this property)
+>>>>>>> 777c901ea627a968974f414e68cbbfdeed87c7f7
 
 **some name value**
 
@@ -39,11 +50,19 @@ meta tag contains information about webpages, it is an empty element it does not
 
 **some common tags**
 
+<<<<<<< HEAD
 1. `<header> and <footer>`: used for the main header and footer of the page. or the header and the footer for a sections of articles in the page.
 2. `<nav>`: intended only for major block of navigation links.
 3. `<article>`: container for any section of a page.
 4. `<aside>`:  defines  some contents aside from the content it is placed in.
 5. `<section>`: to group related content together.
+=======
+1. `<header> and <footer>`: used for the main header and footer of the page. or the header and the footer for a sections ot articles in the page.
+2. `<nav>`: intended only for major block of navigation links.
+3. `<article>`: container for any section of a page.
+4. `<aside>`: defindes some contents aside from the content it is placed in.
+5. `<section>`: to group related content togrther.
+>>>>>>> 777c901ea627a968974f414e68cbbfdeed87c7f7
 6. `<div>`: is used as a container for HTML elements.
 7. `<hgroup>`: to group a set of one or more  heading elements together.
 9. `<figure>`:specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
@@ -67,24 +86,38 @@ cascade style sheet, it allows you to create rules that control each elements re
 
 **Rules contains two parts:**
 
+<<<<<<< HEAD
 1. selectors: means which element the rules will be  applied  to it. there are many type of selectors such as: universal (`* {}`) all elements will be applied the same rules, type (`h1{}`) by type element's name all rules inside this selector will applied to the same element's name, class (`. {}`) to make some rules applied for  several  elements, id (`# {}`) to make some rules applied for specific element...etc.
 2. declaration: how the element  referred  to in the selector should be styled. 
+=======
+1. selectors: means which element the rules will be appllied to it. there are many type of selectors such as: universal (`* {}`) all elements will be applied the same rules, type (`h1{}`) by type element's name all rules inside this selector will applied to the same element's name, class (`. {}`) to make some rules applied for seversl elements, id (`# {}`) to make some rules applied for specific element...etc.
+2. declaration: how the element reffered to in the selector should be styled. 
+>>>>>>> 777c901ea627a968974f414e68cbbfdeed87c7f7
 
 - to link Css code in html file using `<link> tag `
 - you can use Css internally in html using `<style>` tag but it is not the best practice.
 ------------------------------------------------
 
 ## JavaScript
+<<<<<<< HEAD
 JS is a programming language used to make the website more  interactive  and friendly with users. Script part means a series of instruction that a computer can follow to achieve something.
+=======
+JS is a programming language used to make the website more interactine and friendly with users. Script part means a series of instruction that a computer can follow to achieve something.
+>>>>>>> 777c901ea627a968974f414e68cbbfdeed87c7f7
 
 **Before coding any thing you should**
 
 1. define your task you want to achieve it and represent it as steps.
+<<<<<<< HEAD
 2. use flowchart to represent the steps of your task into some shapes to make it easier to read.
+=======
+2. use flowchart to represent the steps of ypur task into some shaps to make it easier to read.
+>>>>>>> 777c901ea627a968974f414e68cbbfdeed87c7f7
 3. now you can code each step.
 
 **Computer** is a machine that don not know anything unless it learned/told to do something. to make this happen we use programming languages to communicate with these machines.
 
+<<<<<<< HEAD
 - in programming each physical thing can be represented as an object. each object has own properties, events and methods.
 
 *properties: * is a subset of object have some information about the object.** for EX:** apple is an object, but color, shape and season are properties for the main object (apple). each property has a name and value tells you something about the object. 
@@ -92,6 +125,15 @@ JS is a programming language used to make the website more  interactive  and fri
 *Events: * it is a way make computer  interact  differently with objects depend on its value. When a specific event happens that event can be used to run a specific section of code called METHODS.
 
 *Methods:* a block of code  interact  with object when certain event comes.
+=======
+- in programming each physical thing can be represented as an object. each objecthas own properties, events and methods.
+
+*properties: * is a subset of object have some information about the object.** for EX:** apple is an object, but color, shap and season are properties for the main object (apple). each property has a name and value tells you somthing about the object. 
+
+*Events: * it is a way make computer interacte differently with objects depend on its value. When a specific event happens that event can be used to run a specific section of code called METHODS.
+
+*Methods:* a block of code interacte with object when certain event comes.
+>>>>>>> 777c901ea627a968974f414e68cbbfdeed87c7f7
 
 **As a summary we can say** Events can run methods. and methods can update or return(make something) the object's properties.
 
@@ -102,3 +144,8 @@ Web browsers have the same thing:
 **notice that** JS code runs when it is found in the html code. if you put it at the beginning of html code it will run before html code. 
 therefore, browser will read html when `<script>` tag appeared it will stop running html to load the JS file until it finishs then return to html code. 
 
+<<<<<<< HEAD
+=======
+![how brwoser runs the codes](https://github.com/AbrarAlzubaidi/reading-notes/blob/main/how%20browser%20execute%20codes.PNG)
+
+>>>>>>> 777c901ea627a968974f414e68cbbfdeed87c7f7
