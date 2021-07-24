@@ -4,7 +4,7 @@
 ## GROWTH MINDSET
 
 ![GROWTH MINDSET](https://thetalentinstitute.imgix.net/assets/img/blog/wouter-blog.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=531.5625&q=80&w=945&s=222d9cc565e7ee7a3e343cf11038b026)
-![GROWTH MINDSET](how connect the web.png)
+[GROWTH MINDSET](how connect the web.png)
 
 **Growth mindset** (GM) it means that developed your self by effort and work hard to get nice achievements.talent and intelligence are not the main key to be successful, they will give you an advantages and may be make it easier to you but not alone. if you put your hard work with your talent it will give you a great result.
 
