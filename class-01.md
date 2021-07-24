@@ -105,3 +105,5 @@ Web browsers have the same thing:
 **notice that** JS code runs when it is found in the html code. if you put it at the beginning of html code it will run before html code. 
 therefore, browser will read html when `<script>` tag appeared it will stop running html to load the JS file until it finishs then return to html code. 
 
+![how brwoser runs the codes](https://github.com/AbrarAlzubaidi/reading-notes/blob/main/how%20browser%20execute%20codes.PNG)
+
