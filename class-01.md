@@ -3,10 +3,9 @@
  well you as a user open your browser and type the address or link of a website you want to access it (we call this process a request), your browser will take your request and connect with domain name server (DNS) (which hold information about servers like IP, MAC address... etc) to know the IP address for the webserver which hold your requested website **note** *this will happen if you access that webserver for the first time and your browser does not have its IP*. after DNS kowing the IP it will bring this information to you, and now you raedy to connect with that webserver to access the requested webpage. Simple as it ^^.
    
    
-   ![How connect the web](how connect the web.png).
-![GROWTH MINDSET](https://thetalentinstitute.imgix.net/assets/img/blog/wouter-blog.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=531.5625&q=80&w=945&s=222d9cc565e7ee7a3e343cf11038b026)
+   ![How connect the web](how connect the web.png)
 
-
+-------------------------------------------------------------
 ### so now these webpages how it built? 
  
  **all webpages created by HTML and CSS**
