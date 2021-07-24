@@ -117,7 +117,7 @@ therefore, browser will read html when `<script>` tag appeared it will stop runn
 
 
 
-![how brwoser runs the codes](https://github.com/AbrarAlzubaidi/reading-notes/blob/main/how%20browser%20execute%20codes.PNG)
+![how brwoser runs the codes](howBrowserExecuteCodes.PNG)
 
 
 
