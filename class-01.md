@@ -1,4 +1,4 @@
- ## First of all, when you need to access a webpage, what is the steps your browser had to do to access it?
+ ##    First of all, when you need to access a webpage, what is the steps your browser had to do to access it?
 
  well you as a user open your browser and type the address or link of a website you want to access it (we call this process a request), your browser will take your request and connect with domain name server (DNS) (which hold information about servers like IP, MAC address... etc) to know the IP address for the webserver which hold your requested website **note** *this will happen if you access that webserver for the first time and your browser does not have its IP*. after DNS knowing the IP it will bring this information to you, and now you ready to connect with that webserver to access the requested webpage. Simple as it ^^.
    
