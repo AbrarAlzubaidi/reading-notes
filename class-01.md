@@ -4,7 +4,7 @@
    
    
    ![How connect the web](how connect the web.png).
-
+![GROWTH MINDSET](https://thetalentinstitute.imgix.net/assets/img/blog/wouter-blog.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=531.5625&q=80&w=945&s=222d9cc565e7ee7a3e343cf11038b026)
 
 
 ### so now these webpages how it built? 
