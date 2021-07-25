@@ -18,7 +18,10 @@ from `<h1>` to `<h6>`.`<h1>` contains the most important heading, `<h6>` contain
 - `<del>` make a line on the text to mean this text deleted.
 
 
+
 ----------------------------------------------------
+
+
 
 **Css** can applied in 3 ways:
 
@@ -31,7 +34,12 @@ from `<h1>` to `<h6>`.`<h1>` contains the most important heading, `<h6>` contain
 
 **like html Css has versions** Css1,Css2,Css3
 
+
+
 ------------------------------------------------------------------
+
+
+
 ## JS
 
 in JS each line of code called statement. JS is a case sensitive language, you should be carefull about this point, which means (name different from Name different from NAME ...etc).
