@@ -188,3 +188,11 @@ syntax
       else {
         // if condition false do this block of code
       }
+
+
+
+
+***resources:***
+
+1. HTML  CSS Design and Build Websites by Jon Duckett.
+2. JavaScript and JQuery Interactive Front-End Web Development.
