@@ -1,9 +1,6 @@
 ## Text in html:
-<<<<<<< HEAD
 by determine the importance of your text you can use heading tags.
 from `<h1>` to `<h6>`.`<h1>` contains the most important heading, `<h6>` contains the least important heading.
-=======
->>>>>>> 77057aa4287ecca48fd6ae03aabfabadf438dbe5
 
 - if the text is a paragraph you can use `<p>` tag
 - `<b>` for bold text.
@@ -185,10 +182,6 @@ syntax
 
 ***resources:***
 
-<<<<<<< HEAD
 1. HTML  CSS Design and Build Websites by Jon Duckett.
 2. JavaScript and JQuery Interactive Front-End Web Development.
-=======
-HTML CSS Design and Build Websites by Jon Duckett.
-JavaScript and JQuery Interactive Front-End Web Development.
->>>>>>> 77057aa4287ecca48fd6ae03aabfabadf438dbe5
+
