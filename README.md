@@ -23,3 +23,4 @@
 |file name| link                                                              |
 |---------|-------------------------------------------------------------------|
 |class-01 |[class-01](https://abraralzubaidi.github.io/reading-notes/class-01)|
+|class-02 |[class-01](https://abraralzubaidi.github.io/reading-notes/class-02)|
