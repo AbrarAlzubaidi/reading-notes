@@ -16,6 +16,8 @@ from `<h1>` to `<h6>`.`<h1>` contains the most important heading, `<h6>` contain
 - `<abbr>` to define shortcuts like html, who (refers to person).
 - `<cite>` to referance something like the auther name.
 - `<del>` make a line on the text to mean this text deleted.
+
+
 ----------------------------------------------------
 
 **Css** can applied in 3 ways:
@@ -127,7 +129,10 @@ to print specific element---->
 ## operators type:
 1. arithmatic: +,-,*,/,%,++,--
 2. assignment  =
-3. logical  && (and),|| (or) ,!(not)
+3. logical  && (and),`||` (or) ,!(not)
+4. comparision ==,!=,!==,===,<,>
+
+
 
 
 **and logic table**
@@ -162,7 +167,7 @@ to print specific element---->
 
 
 
-4. comparision ==,!=,!==,===,<,>
+
 
 
 ## conditional statement:
