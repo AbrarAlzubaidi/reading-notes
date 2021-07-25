@@ -1,4 +1,4 @@
-Text in html:
+## Text in html:
 
 by determine the importance of your text you can use heading tags. from <h1> to <h6>.<h1> contains the most important heading, <h6> contains the least important heading.
 
