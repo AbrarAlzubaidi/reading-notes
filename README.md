@@ -25,3 +25,4 @@
 |class-01 |[class-01](https://abraralzubaidi.github.io/reading-notes/class-01)|
 |class-02 |[class-02](https://abraralzubaidi.github.io/reading-notes/class-02)|
 |class-03 |[class-03](https://abraralzubaidi.github.io/reading-notes/class-03)|
+|class-04 |[class-04](https://abraralzubaidi.github.io/reading-notes/class-04)|
