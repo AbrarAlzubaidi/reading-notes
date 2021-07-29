@@ -73,3 +73,9 @@ from `<h1>` to `<h6>`.`<h1>` contains the most important heading, `<h6>` contain
 **GIF**: images that contain animations.lossless compression
 
 In lossless compression, it is possible to reconstruct the original image from the compressed image because there is no information loss during compression.Lossy compression always have a superior compression ratio.support transparency
+
+
+***resources:***
+
+1. HTML  CSS Design and Build Websites by Jon Duckett.
+2. [image extensions](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
