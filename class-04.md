@@ -57,7 +57,7 @@ identify the points in the page that the link will go to. by the id attribute. t
 CSS can control the position of the elements using many of attributes, such as:
 
 1. position: its value 
-     - static
+     - static 
      - Relative
      - absolute
 
