@@ -31,3 +31,4 @@
 |class-07 |[class-07](https://abraralzubaidi.github.io/reading-notes/class-07)|
 |class-08 |[class-08](https://abraralzubaidi.github.io/reading-notes/class-08)|
 |class-09 |[class-09](https://abraralzubaidi.github.io/reading-notes/class-09)|
+|class-10 |[class-10](https://abraralzubaidi.github.io/reading-notes/class-10)|
