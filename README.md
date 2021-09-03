@@ -1,7 +1,9 @@
-
+# Reading Notes
 **Hi i am Abrar i am 23 years old**
 
-## code 102 reading notes
+### this website includes the links of other websites which hold some reades from each level
+
+## Code 102 - Intro to Software Development
 
 |file name| link                                                           |
 |---------|----------------------------------------------------------------|
@@ -18,7 +20,7 @@
 -------------------------------------------------------------------------------------
 
 
-## code 201 reading notes
+## Code 201 - Foundations of Software Development
 
 |file name| link                                                              |
 |---------|-------------------------------------------------------------------|
@@ -34,3 +36,13 @@
 |class-10 |[class-10](https://abraralzubaidi.github.io/reading-notes/class-10)|
 |class-11 |[class-11](https://abraralzubaidi.github.io/reading-notes/class11)|
 |class-13 |[class-13](https://abraralzubaidi.github.io/reading-notes/class-13)|
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+## Code 301 - Intermediate Software Development
+
+|file name| link                                                              |
+|---------|-------------------------------------------------------------------|
