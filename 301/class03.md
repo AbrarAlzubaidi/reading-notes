@@ -28,8 +28,6 @@ Keys help React identify which items have changed, are added, or are removed.
 
 ---------------------------------------
 
-
-
 # Spread Operator (…) in JavaScript:
 
 **notes:**
@@ -51,20 +49,19 @@ Copying an array, Concatenating or combining arrays, Using Math functions, Using
 3. Give an example of using the spread operator to combine two arrays.
 
 
-    const myArray = [`hello `,`world `,`! `]
-    const yourArray = [`it `,`is `,`perfect `]
-    const ourArray = [...myArray,...yourArray]
-    console.log(...ourArray) // it will print--> hello world ! it is perfect 
+    const array1 = [`hello `,`world `,`! `]
+    const array2 = [`it `,`is `,`perfect `]
+    const array3 = [...array1,...array2]
+    console.log(...array3) // it will print--> hello world ! it is perfect 
 
 
 4. Give an example of using the spread operator to add a new item to an array.
 
 
-     const fruits = ['1','2','3','4','5']
-     const moreFruits = [...fruits];
-     console.log(moreFruits) 
-     fruits[0] = '0'
-     console.log(...[...fruits,...moreFruits]) //it will print --> 012345
+     const numbers = ['1','2','3','4','5']
+     const numberCopy = [...numbers];
+     numbers[0] = '0'
+     console.log(...[...numbers,...numberCopy]) //it will print --> 012345
 
 
 5. Give an example of using the spread operator to combine two objects into one.
