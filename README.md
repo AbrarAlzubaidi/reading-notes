@@ -48,3 +48,4 @@
 |---------|-------------------------------------------------------------------|
 |class-01 |[class-01](https://abraralzubaidi.github.io/reading-notes/301/class01)|
 |class-02 |[class-02](https://abraralzubaidi.github.io/reading-notes/301/class02)|
+|class-03 |[class-03](https://abraralzubaidi.github.io/reading-notes/301/class03)|
