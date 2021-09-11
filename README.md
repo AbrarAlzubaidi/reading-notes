@@ -50,3 +50,4 @@
 |class-02 |[class-02](https://abraralzubaidi.github.io/reading-notes/301/class02)|
 |class-03 |[class-03](https://abraralzubaidi.github.io/reading-notes/301/class03)|
 |class-04 |[class-04](https://abraralzubaidi.github.io/reading-notes/301/class04)|
+|class-06 |[class-06](https://abraralzubaidi.github.io/reading-notes/301/class06)|
