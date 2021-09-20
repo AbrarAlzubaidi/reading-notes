@@ -56,3 +56,4 @@
 |class-09 |[class-09](https://abraralzubaidi.github.io/reading-notes/301/class09)|
 |class-10 |[class-10](https://abraralzubaidi.github.io/reading-notes/301/class10)|
 |class-12 |[class-12](https://abraralzubaidi.github.io/reading-notes/301/class12)|
+|class-13 |[class-13](https://abraralzubaidi.github.io/reading-notes/301/class13)|
