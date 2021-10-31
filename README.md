@@ -69,3 +69,4 @@
 |file name| link                                                              |
 |---------|-------------------------------------------------------------------|
 |read1 |[read1](https://abraralzubaidi.github.io/reading-notes/401/read1)|
+|read2 |[read2](https://abraralzubaidi.github.io/reading-notes/401/read2)|
