@@ -1,11 +1,15 @@
 # Python Scope
 
- ## The global Statement
+
+
+## The global Statement
  to define a list of names that are going to be treated as global names.
 
  so when you add it before declaring a variable inside a function scope you make it like a global variable that can any function access it and update it
 
- ## The nonlocal Statement
+
+
+## The nonlocal Statement
   can be accessed from inner functions, but not assigned or updated. f you want to modify them, then you need to use a nonlocal statement
 
   Unlike global, you can’t use nonlocal outside of a nested or enclosed function.
