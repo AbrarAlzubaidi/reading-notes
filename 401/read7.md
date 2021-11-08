@@ -1,7 +1,6 @@
 # Python Scope
 
 
-
 ## The global Statement
  to define a list of names that are going to be treated as global names.
 
