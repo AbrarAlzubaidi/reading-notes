@@ -68,16 +68,17 @@
 
 |file name| link                                                              |
 |---------|-------------------------------------------------------------------|
-|read1 |[read1](https://abraralzubaidi.github.io/reading-notes/401/read1)|
-|read2 |[read2](https://abraralzubaidi.github.io/reading-notes/401/read2)|
-|read3 |[read3](https://abraralzubaidi.github.io/reading-notes/401/read3)|
-|read4 |[read4](https://abraralzubaidi.github.io/reading-notes/401/read4)|
-|read5 |[read5](https://abraralzubaidi.github.io/reading-notes/401/read5)|
-|read6 |[read6](https://abraralzubaidi.github.io/reading-notes/401/read6)|
-|read7 |[read7](https://abraralzubaidi.github.io/reading-notes/401/read7)|
-|read8 |[read8](https://abraralzubaidi.github.io/reading-notes/401/read8)|
-|read9 |[read9](https://abraralzubaidi.github.io/reading-notes/401/read9)|
-|read10 |[read10](https://abraralzubaidi.github.io/reading-notes/401/read10)|
-|read11 |[read11](https://abraralzubaidi.github.io/reading-notes/401/read11)|
-|read12 |[read12](https://abraralzubaidi.github.io/reading-notes/401/read12)|
+|read-1 |[read-1](https://abraralzubaidi.github.io/reading-notes/401/read1)|
+|read-2 |[read-2](https://abraralzubaidi.github.io/reading-notes/401/read2)|
+|read-3 |[read-3](https://abraralzubaidi.github.io/reading-notes/401/read3)|
+|read-4 |[read-4](https://abraralzubaidi.github.io/reading-notes/401/read4)|
+|read-5 |[read-5](https://abraralzubaidi.github.io/reading-notes/401/read5)|
+|read-6 |[read-6](https://abraralzubaidi.github.io/reading-notes/401/read6)|
+|read-7 |[read-7](https://abraralzubaidi.github.io/reading-notes/401/read7)|
+|read-8 |[read-8](https://abraralzubaidi.github.io/reading-notes/401/read8)|
+|read-9 |[read-9](https://abraralzubaidi.github.io/reading-notes/401/read9)|
+|read-10 |[read-10](https://abraralzubaidi.github.io/reading-notes/401/read10)|
+|read-11 |[read-11](https://abraralzubaidi.github.io/reading-notes/401/read11)|
+|read-12 |[read-12](https://abraralzubaidi.github.io/reading-notes/401/read12)|
+|read-14 |[read-14](https://abraralzubaidi.github.io/reading-notes/401/read14)|
 
