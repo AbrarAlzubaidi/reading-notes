@@ -11,7 +11,7 @@
 ![tree](https://i.ytimg.com/vi/qH6yxkw0u78/maxresdefault.jpg)
 
 ## Traversals: There are two categories of traversals
-1. Depth First:
+1) Depth First:
 
  **three methods for depth first traversal:**
 
@@ -21,7 +21,7 @@
 
 ***The most common way to traverse through a tree is to use recursion.and stack***
 
-2. Breadth First: by going through each level of the tree node-by-node.
+2) Breadth First: by going through each level of the tree node-by-node.
 
 ***breadth first traversal uses a queue***
 
