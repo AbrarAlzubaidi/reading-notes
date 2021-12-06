@@ -87,4 +87,5 @@
 |read-18 |[read-18](https://abraralzubaidi.github.io/reading-notes/401/read18)|
 |read-26 |[read-26](https://abraralzubaidi.github.io/reading-notes/401/read26)|
 |read-27 |[read-27](https://abraralzubaidi.github.io/reading-notes/401/read27)|
+|read-28 |[read-28](https://abraralzubaidi.github.io/reading-notes/401/read28)|
 
