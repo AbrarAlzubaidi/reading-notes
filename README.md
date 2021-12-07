@@ -89,4 +89,4 @@
 |read-27 |[read-27](https://abraralzubaidi.github.io/reading-notes/401/read27)|
 |read-28 |[read-28](https://abraralzubaidi.github.io/reading-notes/401/read28)|
 |read-29 |[read-29](https://abraralzubaidi.github.io/reading-notes/401/read29)|
-
+|read-29 |[read-29](https://abraralzubaidi.github.io/reading-notes/401/read29)|
