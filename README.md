@@ -91,5 +91,6 @@
 |read-29 |[read-29](https://abraralzubaidi.github.io/reading-notes/401/read29)|
 |read-30 |[read-30](https://abraralzubaidi.github.io/reading-notes/401/read30)|
 |read-31 |[read-31](https://abraralzubaidi.github.io/reading-notes/401/read31)|
+|read-32 |[read-32](https://abraralzubaidi.github.io/reading-notes/401/read32)|
 
 
