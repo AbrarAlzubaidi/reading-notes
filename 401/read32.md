@@ -23,6 +23,7 @@
       - An HTTP 403 Forbidden response will be returned.
     - The request was not successfully authenticated, and the highest priority authentication class does use WWW-Authenticate headers
       - An HTTP 401 Unauthorized response
+      
 ## set permisiion
 by type in setting.py
 
