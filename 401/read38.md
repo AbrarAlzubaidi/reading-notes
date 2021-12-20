@@ -1,4 +1,4 @@
-# REACT.js
+# REACT
 
 ## Conditional Rendering
 - You can use variables to store elements. This can help you conditionally render a part of the component while the rest of the output doesn’t change.
@@ -51,3 +51,14 @@ const listItems = numbers.map((number) =>
 - React is, the premier way to build big, fast Web apps with JavaScript. It has scaled very well for us at Facebook and Instagram.
 
 - One of the many great parts of React is how it makes you think about apps as you build them.
+
+
+***resources**
+
+[read link](https://canvas.instructure.com/courses/3671304/discussion_topics/12904566)
+
+1. [conditional-rendering](https://reactjs.org/docs/conditional-rendering.html)
+2. [lists-and-keys](https://reactjs.org/docs/lists-and-keys.html)
+3. [forms](https://reactjs.org/docs/forms.html)
+4. [lifting-state-up](https://reactjs.org/docs/lifting-state-up.html)
+5. [thinking-in-react](https://reactjs.org/docs/thinking-in-react.html)
