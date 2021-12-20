@@ -97,6 +97,7 @@
 |read-35 |[read-35](https://abraralzubaidi.github.io/reading-notes/401/read35)|
 |read-36 |[read-36](https://abraralzubaidi.github.io/reading-notes/401/read36)|
 |read-37 |[read-37](https://abraralzubaidi.github.io/reading-notes/401/read37)|
+|read-38 |[read-38](https://abraralzubaidi.github.io/reading-notes/401/read38)|
 
 
 
