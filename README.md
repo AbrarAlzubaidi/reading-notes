@@ -99,6 +99,8 @@
 |read-37 |[read-37](https://abraralzubaidi.github.io/reading-notes/401/read37)|
 |read-38 |[read-38](https://abraralzubaidi.github.io/reading-notes/401/read38)|
 |read-39 |[read-39](https://abraralzubaidi.github.io/reading-notes/401/read39)|
+|read-41 |[read-41](https://abraralzubaidi.github.io/reading-notes/401/read41)|
+
 
 
 
